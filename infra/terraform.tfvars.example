@@ -1,0 +1,6 @@
+aws_region              = "us-east-1"
+project_name            = "olist-dwh"
+bucket_name             = "changeme-olist-dwh-dea-<unique-suffix>"
+redshift_admin_username = "admin"
+redshift_base_capacity  = 8
+alert_email             = "you@example.com"
